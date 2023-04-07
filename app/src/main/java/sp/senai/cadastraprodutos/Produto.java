@@ -6,11 +6,11 @@ import org.jetbrains.annotations.NotNull;
 public class Produto {
     private int id;
     private String nome;
-    private Float quantidade;
-    private Float preco;
+    private float quantidade;
+    private float preco;
 
     // metodo construtor
-    public Produto(String nome, Float quantidade, Float preco) {
+    public Produto(String nome, float quantidade, float preco) {
 //        this.nome = nome;
 //        this.quantidade = quantidade;
 //        this.preco = preco;
@@ -40,11 +40,11 @@ public class Produto {
         this.nome = nome;
     }
 
-    public Float getQuantidade() {
+    public float getQuantidade() {
         return quantidade;
     }
 
-    public void setQuantidade(Float quantidade) {
+    public void setQuantidade(float quantidade) {
         this.quantidade = quantidade;
     }
 
