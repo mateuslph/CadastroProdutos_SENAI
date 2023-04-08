@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">CadastraProdutos</string>
+    <string name="tirar_foto">Tirar Foto</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="inserir">Inserir</string>
+    <string name="listar">Listar</string>
+    <string name="nome">Nome</string>
+    <string name="preco">Preço</string>
+    <string name="cadastro">Cadastro</string>
 </resources>
